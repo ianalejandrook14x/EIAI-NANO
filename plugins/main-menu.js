@@ -56,7 +56,7 @@ const defaultMenu = {
 
 ⸻・⸻・⸻・⸻・⸻・⸻
 
-“ Hola *%name* Soy *THE Eiai-Nano*
+“ Hola *%name* Soy *Nano*
 
 ╭────═[ *𝗜 𝗡 𝗙 𝗢* ]───
 
